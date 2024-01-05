@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-text {
+  font-size: 2rem; /* Ajusta este valor según tus necesidades */
+}
